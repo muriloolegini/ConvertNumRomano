@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\bin\Debug\net6.0\IntRomano.exe
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\bin\Debug\net6.0\IntRomano.deps.json
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\bin\Debug\net6.0\IntRomano.runtimeconfig.json
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\bin\Debug\net6.0\IntRomano.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\bin\Debug\net6.0\IntRomano.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\refint\IntRomano.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\IntRomano.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\IntRomano\obj\Debug\net6.0\ref\IntRomano.dll
